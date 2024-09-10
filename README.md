@@ -1,6 +1,6 @@
-- 👋 Eyo, I’m @coslatte.
-- 👀 I’m interested in **Machine Learning** and **Backend Development**.
-- 🌱 Currently learning bunch of stuff about **Python**.
+- 👋 Ayo, @coslatte.
+- 👀 Interested in whatever **Backend Development** related topic.
+- 🌱 Currently learning bunch of stuff about **Frameworks for Python**.
 
 <!---
 coslatte/coslatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
