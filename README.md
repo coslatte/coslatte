@@ -1,5 +1,5 @@
 - 👋 Ayo, @coslatte.
-- 👀 Interested in whatever **Backend Development** related topic.
+- 👀 Interested in whatever **Backend Development** related topics.
 - 🌱 Currently learning bunch of stuff about **Frameworks for Python**.
 
 <!---
