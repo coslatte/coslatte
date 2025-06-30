@@ -1,6 +1,6 @@
 - 👋 Ayo, @coslatte.
 - 👀 Interested in whatever **Fontend** and **Backend** related topics.
-- 🌱 Currently learning bunch of stuff about **React** and **TailwindCSS**.
+- 🌱 Currently learning bunch of stuff about **JavaScript**, **React** and **TailwindCSS**.
 
 <!---
 coslatte/coslatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
