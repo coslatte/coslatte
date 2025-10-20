@@ -1,4 +1,4 @@
-👋 Ayo, Gabriel Paz here, a.k.a @coslatte.
+👋 Gabriel Paz, a.k.a CosmicLatte.
 
 - 📺 Interested in whatever **Fontend** and **Backend** related topics.
 - 🌱 Currently learning bunch of stuff about **Typescript**, **React** and **TailwindCSS**.
