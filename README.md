@@ -4,5 +4,4 @@
 - 🌱 Currently learning bunch of stuff about **Typescript**, **React** and **TailwindCSS**.
 
 **Currently developing**:
-- A _Simulation Model Validation_ using Data Science for a College research.
 - At [RedBlock-Online](https://github.com/Redblock-Online/redblock-client) as maintainer and sound designer.
