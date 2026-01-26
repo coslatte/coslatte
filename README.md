@@ -1,4 +1,4 @@
-👋 Gabriel Paz, a.k.a CosmicLatte.
+👋 _Ey_, I'm Gabriel Paz.
 
 - Currently learning _Spring Boot_ for SaaS projects.
 
