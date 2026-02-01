@@ -1,7 +1,9 @@
-👋 _Ey_, I'm Gabriel Paz.
+👋 _Hey_, I'm Gabriel Paz Ruiz, Software Engineering student from the Universidad Central "Marta Abreu" de las Villas.
 
-- Currently learning _Spring Boot_ for SaaS projects.
+**Learning about**
+- _Spring Boot_ for SaaS projects.
 
-**Currently developing**:
+**Currently working on**:
 - Frontend support for college projects.
+- Engineering Bachelor’s Thesis.
 - At [RedBlock-Online](https://github.com/Redblock-Online/redblock-client) as maintainer and sound designer (temporarily offline).
