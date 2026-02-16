@@ -1,7 +1,7 @@
 👋 _Hey_, I'm Gabriel Paz Ruiz, Software Engineering student from the Universidad Central "Marta Abreu" de las Villas.
 
 **Learning about**
-- _Spring Boot_ for SaaS projects.
+- _Spring Boot_, for SaaS projects.
 
 **Currently working on**:
 - Frontend support for college projects.
