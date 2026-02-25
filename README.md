@@ -4,6 +4,5 @@
 - _Spring Boot_, for SaaS projects.
 
 **Currently working on**:
-- Frontend support for college projects.
 - Engineering Bachelor’s Thesis.
 - At [RedBlock-Online](https://github.com/Redblock-Online/redblock-client) as maintainer and sound designer (temporarily offline).
