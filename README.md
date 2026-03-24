@@ -5,4 +5,3 @@ Software Engineering student from the _Universidad Central "Marta Abreu" de las 
 
 **Currently working on**:
 - Engineering Bachelor’s Thesis.
-- At [RedBlock-Online](https://github.com/Redblock-Online/redblock-client) as maintainer and sound designer.
