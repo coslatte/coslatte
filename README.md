@@ -1,4 +1,4 @@
-Software Engineering student from the _Universidad Central "Marta Abreu" de las Villas_.
+Software Engineering student from the _Universidad Central "Marta Abreu" de las Villas_, Cuba.
 
 **Learning about**
 - _Spring Boot_.
